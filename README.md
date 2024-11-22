@@ -34,8 +34,8 @@ Extensive -Management, kapsamlı bir **Node.js Backend Eğitimi Projesi** kapsam
 
 ### 1. Projeyi Klonlama  
 
-git clone https://github.com/kullanici-adi/nodenova-admin.git
-cd nodenova-admin
+git clone https://github.com/yasinylz/Extensive -Management-System-API.git
+cd Extensive -Management-System-API
 2. Gerekli Paketleri Kurma
 bash
 Kodu kopyala
@@ -45,7 +45,7 @@ Projenin kök dizininde .env dosyası oluşturup aşağıdaki değerleri ekleyin
 
 makefile
 Kodu kopyala
-MONGO_URI=mongodb://localhost:27017/nodenova
+MONGO_URI=mongodb://localhost:27017/nodenova  
 JWT_SECRET=supersecretkey
 PORT=3000
 4. Projeyi Başlatma
@@ -69,8 +69,6 @@ PUT	/roles/:id	Rolü güncelle.
 DELETE	/roles/:id	Rolü sil.
 🔒 Güvenlik ve Testler
 NPM Audit: Güvenlik açıklarını kontrol edin.
-bash
-Kodu kopyala
 npm audit
 Postman ile Test Etme: Endpointlerinizi Postman'de kolayca test edin.
 📦 Ek Özellikler
