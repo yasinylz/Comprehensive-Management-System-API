@@ -1,6 +1,6 @@
-# Comprehensive-Management-System-API 🌟 
+# Extensive -Management-System-API 🌟 
 
-Comprehensive-Management, kapsamlı bir **Node.js Backend Eğitimi Projesi** kapsamında geliştirilmiş, CRUD işlemlerinden kullanıcı yetkilendirmeye, çoklu dil desteğinden güvenlik özelliklerine kadar uzanan modern bir **Admin Paneli Uygulaması**dır. Bu proje, Node.js ve Express.js'in gücünü kullanarak gerçek dünya uygulamalarına ışık tutmaktadır.
+Extensive -Management, kapsamlı bir **Node.js Backend Eğitimi Projesi** kapsamında geliştirilmiş, CRUD işlemlerinden kullanıcı yetkilendirmeye, çoklu dil desteğinden güvenlik özelliklerine kadar uzanan modern bir **Admin Paneli Uygulaması**dır. Bu proje, Node.js ve Express.js'in gücünü kullanarak gerçek dünya uygulamalarına ışık tutmaktadır.
 
 ---
 
