@@ -34,7 +34,7 @@ Extensive -Management, kapsamlı bir **Node.js Backend Eğitimi Projesi** kapsam
 
 ### 1. Projeyi Klonlama  
 
-git clone https://github.com/yasinylz/Extensive -Management-System-API.git
+git clone https://github.com/yasinylz/Extensive-Management-System-API.git
 cd Extensive -Management-System-API
 2. Gerekli Paketleri Kurma
 bash
