@@ -28,16 +28,7 @@ Extensive -Management, kapsamlı bir **Node.js Backend Eğitimi Projesi** kapsam
 
 ---
 
-## 🚀 Kullanılan Teknolojiler  
-- **Backend Framework**: Node.js & Express.js  
-- **Veritabanı**: MongoDB  
-- **Authentication**: JWT  
-- **Loglama**: Winston  
-- **Güvenlik**: NPM Audit  
-- **Excel İşlemleri**: ExcelJS  
-- **Dil Desteği**: i18next  
 
----
 
 ## 📖 Kurulum ve Kullanım Kılavuzu  
 
